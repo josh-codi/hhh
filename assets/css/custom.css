@@ -1,0 +1,22 @@
+.pre-loader {
+  position: fixed;
+  top: 50%;
+  width: 100%;
+}
+
+.inner-pre-loader{
+  top: 50%;
+  width: 100%;
+  margin: 20% 0;
+}
+
+.pointer-cursor{
+  cursor: pointer;
+}
+*{
+  list-style-type: none !important;
+}
+.flex{
+  display: flex;
+  align-items: center;
+}
